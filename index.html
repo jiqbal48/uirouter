@@ -47,6 +47,11 @@
       <a ui-sref="people" ui-sref-active="active">People</a>
     </div>
 
+  <div ng-controller="koi">
+    <h1>appName: {{appName}}</h1>
+    <button ng-click="setName()"> setName</button>
+  </div>
+
     <ui-view></ui-view>
   </body>
 </html>
