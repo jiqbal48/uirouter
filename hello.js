@@ -29,7 +29,7 @@ myApp.config(function($stateProvider) {
         }
       }
     }
-  ]
+  ];
 
   // Loop over the state definitions and register them
   states.forEach(function(state) {
