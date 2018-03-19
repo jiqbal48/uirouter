@@ -1,0 +1,27 @@
+{
+  "name": "uirouter",
+  "version": "1.0.0",
+  "description": "The angular-ui-router \"Hello Galaxy\" app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiqbal48/uirouter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiqbal48/uirouter/issues"
+  },
+  "homepage": "https://github.com/jiqbal48/uirouter#readme",
+  "dependencies": {
+    "angular": "^1.5.11",
+    "angular-ui-router": "^1.0.3",
+    "d3": "^3.5.17",
+    "show-current-browser-url": "^1.0.7",
+    "ui-router-visualizer": "^4.0.0"
+  }
+}
